@@ -4,7 +4,8 @@ public class Main {
         //new Variablen().doSomthing();
         //new If_Else().doSomthing();
         //new Scannertest().doSomthing();
-        new Schleifen().doSomthing();
+        //new Schleifen().doSomthing();
+        new Randomklasse().doSomthing();
     }
 
 }
