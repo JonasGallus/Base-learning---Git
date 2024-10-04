@@ -8,7 +8,7 @@ public class Variablen {
     boolean wert1 = true;
     boolean wert2 = false;
     public void doSomthing() {
-        System.out.println(sum);
+        System.out.println("Summe = " +sum);
         System.out.println("Die Summe aus " + num1 + " und " + num2 + 
         " ist gleich " + sum);
     }
